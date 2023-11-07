@@ -15,6 +15,12 @@
 
 <!-- <img alt="Programmer Coding" src="./assets/images/programming.svg" align="right"/> -->
 
+###  &nbsp;Hacktober Fest 2023
+<p align="left">
+[![An image of @jigsbot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jigsbot)](https://holopin.io/@jigsbot)  
+</p>
+
+
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
 <!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
