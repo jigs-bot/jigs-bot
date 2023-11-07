@@ -15,10 +15,6 @@
 
 <!-- <img alt="Programmer Coding" src="./assets/images/programming.svg" align="right"/> -->
 
-###  &nbsp;Hacktober Fest 2023
-<p align="left">
-<img src="https://holopin.me/jigsbot)](https://holopin.io/@jigsbot" alt="java" width="40" height="40"/>
-</p>
 
 
 ### 🛠 &nbsp;Tech Stack
