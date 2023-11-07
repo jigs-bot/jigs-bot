@@ -17,7 +17,7 @@
 
 ###  &nbsp;Hacktober Fest 2023
 <p align="left">
-[![An image of @jigsbot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jigsbot)](https://holopin.io/@jigsbot)  
+<img src="https://holopin.me/jigsbot)](https://holopin.io/@jigsbot" alt="java" width="40" height="40"/>
 </p>
 
 
