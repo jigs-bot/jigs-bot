@@ -15,8 +15,6 @@
 
 <!-- <img alt="Programmer Coding" src="./assets/images/programming.svg" align="right"/> -->
 
-[![@jigsbot's Holopin board](https://holopin.io/api/user/board?user=jigsbot)](https://holopin.io/@jigsbot)
-
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
 <!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -56,6 +54,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="figma" width="40" height="40"/> 
   </a>
 </p>
+
+
+[![@jigsbot's Holopin board](https://holopin.io/api/user/board?user=jigsbot)](https://holopin.io/@jigsbot)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
