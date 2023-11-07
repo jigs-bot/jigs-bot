@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👀 &nbsp;I’m interested in Core Java, MERN Stack Development and Data Structures & Algorithms.\
+👀 &nbsp;I’m interested in Python, MERN Stack Development and Data Structures & Algorithms.\
 🌱 &nbsp;I'm currently learning MERN Stack Development.\
 🤝 &nbsp;I’m looking to collaborate on Frontend Development projects.\
 🎓 &nbsp;I'm currently pursuing MCA at National Institute Of Technology ,Warangal.\
